@@ -1,0 +1,29 @@
+# name = Quantumcircuit(Qubits, Classicalbits)
+
+# name.draw('mpl') ; draw a matplotlib version, as in the composer
+
+# Visualisations:
+
+# plot_bloch_multivector: Visualizes a quantum state or a list of quantum states on the Bloch sphere.
+
+# plot_bloch_vector: Plots a Bloch vector on the Bloch sphere.
+
+# plot_state_city: Displays the quantum state's probability amplitudes in a city format.
+
+# plot_state_paulivec: Plots the Pauli expectation values of a quantum state.
+
+# plot_state_hinton: Displays the quantum state's density matrix elements in a Hinton diagram.
+
+# plot_state_qsphere: Visualizes the quantum state as a Q-sphere.
+
+# plot_state_pmatrix: Displays the quantum state's probability matrix.
+
+# plot_histogram: Plots a histogram of measurement outcomes from a quantum circuit.
+
+# plot_circuit: Visualizes a quantum circuit.
+
+# plot_error_map: Displays a heatmap of a given error probability matrix.
+
+# plot_gate_map: Visualizes the layout of qubits on a quantum device.
+
+# plot_transpile: Displays the transpiled version of a quantum circuit.
